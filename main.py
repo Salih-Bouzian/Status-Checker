@@ -1,5 +1,4 @@
 import argparse
-import sys
 from server_manager import add_server, remove_server, list_servers
 from network_checker import ping, generate_html_report
 from server_manager import *
