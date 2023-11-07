@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2023-11-07 20:19:51",
+        "server_name": "google",
+        "server_address": "8.8.8.8",
+        "ping_result": "Up"
+    },
+    {
+        "timestamp": "2023-11-07 20:19:54",
+        "server_name": "google",
+        "server_address": "8.8.8.8",
+        "ping_result": "Up"
+    },
+    {
+        "timestamp": "2023-11-07 20:19:55",
+        "server_name": "google",
+        "server_address": "8.8.8.8",
+        "ping_result": "Up"
+    }
+]
