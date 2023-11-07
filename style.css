@@ -1,0 +1,43 @@
+/* Centreer de titel van de HTML-pagina en de tabel */
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  /* Beperk de breedte tot 50% van de viewport */
+  table {
+    max-width: 50%;
+  }
+  
+table {
+    margin-top: 3rem;
+    background-color: beige;
+    width: 100%;
+    border-collapse: collapse;
+    height: 5rem;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: rgb(210, 210, 210);
+    
+  }
+  
+
+  tr:nth-child(even) {
+    background-color: white;
+  }
+  
+
+  tr:first-child {
+    background-color: black;
+    color: white; 
+  }
+  
+
+  td, th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  

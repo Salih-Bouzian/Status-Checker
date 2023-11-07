@@ -52,9 +52,9 @@ def generate_html_report():
     <html>
     <head>
         <title>Network Monitoring Report</title>
+        <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
-        <h1>Network Monitoring Report</h1>
         <table border="1">
             <tr>
                 <th>Timestamp</th>
